@@ -13,5 +13,5 @@
 I almost always have my headphones [on](https://open.spotify.com/user/31umxn66kgvdc44hhel7xon25vbe).
 
 ### Wanna chat or see what I'm building?
-Telegram: [@marcxe](https://t.me/marcxe)
+Telegram: [@lykhe](https://t.me/lykhe)
 My Page: [zyo.lol/marc](https://zyo.lol/marc)
