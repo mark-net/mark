@@ -8,7 +8,7 @@
 // *   Go for putting together clean, scalable microservices.
 
 # ПЫТАЮСЬ НАЙТИ СЕБЯ, ПРОСЬБА НЕ БЕСПОКОИТЬ!
-# I'M TRYNA TO FIND MYSELF, PLEASE DON'DISTURB!
+# I'M TRYNA TO FIND MYSELF, PLEASE DON'T DISTURB!
 
 ### Wanna chat or see what I'm building?
 Telegram: [@lykhe](https://t.me/lykhe)
