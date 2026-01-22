@@ -1,8 +1,8 @@
-### Hi there 👋, I'm Mark
+## Hi there 👋, I'm Mark
 
 ![Header](https://i.pinimg.com/736x/f2/6c/03/f26c037c7785d0cdd3e371ebdce85df7.jpg)
 
-####  • I'm becoming junior golang backend developer
+##  • I'm becoming junior golang backend developer
 ### What I Use
 *   Go as main programming language, write on go reliable & clean backend services
 *   Docker/Docker Compose for containerization and deployment
