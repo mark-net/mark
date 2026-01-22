@@ -1,15 +1,13 @@
 ### Hi there 👋, I'm Mark
-// ####  • Systems Architect & Distributed Systems Engineer
+####  • I'm becoming junior golang backend developer
 
-![Backend Header](https://i.pinimg.com/736x/51/0c/48/510c48e4ccc8c0708c706c42ff3972e3.jpg)
+![Header]([https://i.pinimg.com/736x/51/0c/48/510c48e4ccc8c0708c706c42ff3972e3.jpg](https://i.pinimg.com/736x/9a/0e/5a/9a0e5aa6a14e256c1ba63157e8e69ff4.jpg))
 
 // ### What I Use
-// *   Java & Spring Boot for crafting solid, battle-tested backend systems.
-// *   Go for putting together clean, scalable microservices.
-
-# ПЫТАЮСЬ НАЙТИ СЕБЯ, ПРОСЬБА НЕ БЕСПОКОИТЬ!
-# I'M TRYNA TO FIND MYSELF, PLEASE DON'T DISTURB!
+*   Go as main programming language, write on go reliable & clean backend services
+*   Docker/Docker Compose for containerization and deployment
+*   PostgreSQL for data persistence with proper migrations
+*   Linux, Git, CI/CD basics
 
 ### Wanna chat or see what I'm building?
 Telegram: [@lykhe](https://t.me/lykhe)
-My Page: [zyo.lol/marc](https://zyo.lol/marc)
