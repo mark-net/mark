@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Mark
 ####  • I'm becoming junior golang backend developer
 
-![Header]([https://i.pinimg.com/736x/51/0c/48/510c48e4ccc8c0708c706c42ff3972e3.jpg](https://i.pinimg.com/736x/9a/0e/5a/9a0e5aa6a14e256c1ba63157e8e69ff4.jpg))
+![Header](https://i.pinimg.com/736x/9a/0e/5a/9a0e5aa6a14e256c1ba63157e8e69ff4.jpg)
 
 // ### What I Use
 *   Go as main programming language, write on go reliable & clean backend services
