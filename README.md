@@ -4,7 +4,7 @@
 
 ##  • I'm becoming junior golang backend developer
 ### What I Use
-*   Go as main programming language, write on go reliable & clean backend services
+*   Go is my primary programming language and i write reliable and clean backend services in Go.
 *   Docker/Docker Compose for containerization and deployment
 *   PostgreSQL for data persistence with proper migrations
 *   Linux, Git, CI/CD basics
