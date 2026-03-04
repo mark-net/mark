@@ -1,7 +1,5 @@
 ## Hi there 👋, I'm Mark - system architect(by mindset)
 
-![Header](https://i.pinimg.com/1200x/3f/bc/1d/3fbc1d7cb5bcaed1d0b2cbe8b734f787.jpg)
-
 ### I think in systems, not just in code.
 
 - Go, C, Docker, Linux
